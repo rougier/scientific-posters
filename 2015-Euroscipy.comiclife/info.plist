@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ModelVersion</key>
+	<integer>300</integer>
+	<key>dirtyPages</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>hasPanels</key>
+	<true/>
+	<key>imageFilterID</key>
+	<string>None</string>
+	<key>imageFilterParameter</key>
+	<real>0.5</real>
+	<key>panels</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{634.27545200000009, 461.75390600000003}</string>
+			<key>size</key>
+			<string>{630.24670400000002, 247.05175800000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{374.20808449999998, 267.76683850000001}</string>
+			<key>size</key>
+			<string>{286.99993899999998, 288.33331299999998}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{176.75016049999999, 461.75399750000003}</string>
+			<key>size</key>
+			<string>{255.18254099999999, 247.05181899999999}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{454.44877599999995, 716.62799050000001}</string>
+			<key>size</key>
+			<string>{270.19314600000001, 231.40734900000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{176.75016049999999, 716.5261230000001}</string>
+			<key>size</key>
+			<string>{255.18254099999999, 231.61108400000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{131.71753649999999, 980.966858}</string>
+			<key>size</key>
+			<string>{165.118347, 262.49255399999998}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{409.41641300000003, 980.966858}</string>
+			<key>size</key>
+			<string>{360.25787400000002, 262.49255399999998}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{319.249641, 1204.8574225}</string>
+			<key>size</key>
+			<string>{540.18255599999998, 154.40722700000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{454.44824249999999, 1374.6296385000001}</string>
+			<key>size</key>
+			<string>{270.19311499999998, 154.255371}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{454.44824249999999, 1552.5537115}</string>
+			<key>size</key>
+			<string>{270.19311499999998, 170.40722700000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{176.749641, 1467.6296385000001}</string>
+			<key>size</key>
+			<string>{255.18255600000001, 340.25537100000003}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{1054.474121, 461.75390600000003}</string>
+			<key>size</key>
+			<string>{180.128906, 247.05175800000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{731.74334750000003, 997.27246100000002}</string>
+			<key>size</key>
+			<string>{255.18249499999999, 231}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{1009.4420165, 951.74652100000003}</string>
+			<key>size</key>
+			<string>{270.19311499999998, 322.05187999999998}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{731.74337800000001, 1514.2314450000001}</string>
+			<key>size</key>
+			<string>{255.18255600000001, 247.05175800000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{1009.4420165, 1514.2314450000001}</string>
+			<key>size</key>
+			<string>{270.19311499999998, 247.05175800000001}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{731.74334750000003, 732.17065400000001}</string>
+			<key>size</key>
+			<string>{255.257935, 262.49267600000002}</string>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>center</key>
+			<string>{1009.4420165, 687.636169}</string>
+			<key>size</key>
+			<string>{270.16064499999999, 173.42370600000001}</string>
+		</dict>
+	</array>
+</dict>
+</plist>
