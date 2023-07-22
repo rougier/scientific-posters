@@ -9,6 +9,9 @@ in. They are either in [pages (OSX)](https://www.apple.com/pages/) or
 [ComicLife (OSX)](https://plasq.com/apps/comiclife/macwin/) formats.
 Feel free to re-use for designing your own.
 
+See also [Conference Posters](https://github.com/rougier/conference-posters)
+
+
 | [![][1.png]][1.pdf] | [![][2.png]][2.pdf] | [![][3.png]][3.pdf] | [![][4.png]][4.pdf] |
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | [![][5.png]][5.pdf] | [![][6.png]][6.pdf] | [![][7.png]][7.pdf] | [![][8.png]][8.pdf] |
