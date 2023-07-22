@@ -4,7 +4,7 @@ Create thumbnails with: mogrify -format png -thumbnail x1024 -background white -
 
 # Scientific Posters
 
-There are some posters I designed for conferences I participated
+There are some posters I designed for event or conferences I participated
 in. They are either in [pages (OSX)](https://www.apple.com/pages/) or
 [ComicLife (OSX)](https://plasq.com/apps/comiclife/macwin/) formats.
 Feel free to re-use for designing your own.
